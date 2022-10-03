@@ -2,7 +2,7 @@
 
 Site fictício de um petshop 🌍
 
-1- Possui menú superior com logo;<br>
+1- Possui menu superior com logo;<br>
 2- Possui slideshow centralizado;<br>
 3- Serviços disponibilizados;<br>
 4- Produtos para venda;<br>
